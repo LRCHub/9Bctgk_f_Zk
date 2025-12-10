@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シアター生き様",
+  "base_artist": "Edel Note",
+  "createdAt": "2025-12-10T03:53:42.669168Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シアター生き様",
+      "artist": "Edel Note",
+      "has_synced": false,
+      "path": "select/pl_01_シアター生き様_Edel_Note.txt"
+    }
+  ]
+}
